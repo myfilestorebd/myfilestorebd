@@ -9,7 +9,7 @@
       {
         "startedDateTime": "2025-04-02T07:25:03.307Z",
         "id": "page_1",
-        "title": "https://entry-458898283632.us-central1.run.app/?username=MYFILE0011&password=IvacbdFILE0011",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git",
         "pageTimings": {
           "onContentLoad": 652.5409999885596,
           "onLoad": 665.5109999992419
@@ -18,7 +18,7 @@
       {
         "startedDateTime": "2025-04-02T07:30:58.863Z",
         "id": "page_2",
-        "title": "https://entry-458898283632.us-central1.run.app/?ivac=2&visa_type=13&info%5B0%5D%5Bweb_id%5D=BGDRV004A725&info%5B0%5D%5Bname%5D=BARMAN&info%5B0%5D%5Bemail%5D=grzdhedI517%40GMAIL.COM&info%5B0%5D%5Bphone%5D=01748549875&password=49875&visitReason=Seeking+treatment+for+medical+reasons+in+India&info%5B1%5D%5Bweb_id%5D=&info%5B1%5D%5Bname%5D=&info%5B2%5D%5Bweb_id%5D=&info%5B2%5D%5Bname%5D=&info%5B3%5D%5Bweb_id%5D=&info%5B3%5D%5Bname%5D=&info%5B4%5D%5Bweb_id%5D=&info%5B4%5D%5Bname%5D=&pm=dbblmobilebanking&pmNumber=01748549875",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?ivac=2&visa_type=13&info%5B0%5D%5Bweb_id%5D=BGDRV004A725&info%5B0%5D%5Bname%5D=BARMAN&info%5B0%5D%5Bemail%5D=grzdhedI517%40GMAIL.COM&info%5B0%5D%5Bphone%5D=01748549875&password=49875&visitReason=Seeking+treatment+for+medical+reasons+in+India&info%5B1%5D%5Bweb_id%5D=&info%5B1%5D%5Bname%5D=&info%5B2%5D%5Bweb_id%5D=&info%5B2%5D%5Bname%5D=&info%5B3%5D%5Bweb_id%5D=&info%5B3%5D%5Bname%5D=&info%5B4%5D%5Bweb_id%5D=&info%5B4%5D%5Bname%5D=&pm=dbblmobilebanking&pmNumber=01748549875",
         "pageTimings": {
           "onContentLoad": 928.5589999926742,
           "onLoad": 930.0189999921713
@@ -27,7 +27,7 @@
       {
         "startedDateTime": "2025-04-02T07:32:54.574Z",
         "id": "page_3",
-        "title": "https://entry-458898283632.us-central1.run.app/",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git",
         "pageTimings": {
           "onContentLoad": 301.9309999945108,
           "onLoad": 309.31800001417287
@@ -36,7 +36,7 @@
       {
         "startedDateTime": "2025-04-02T07:32:58.971Z",
         "id": "page_6",
-        "title": "https://entry-458898283632.us-central1.run.app/",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git",
         "pageTimings": {
           "onContentLoad": null,
           "onLoad": null
@@ -54,7 +54,7 @@
       {
         "startedDateTime": "2025-04-02T07:33:15.037Z",
         "id": "page_7",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true",
         "pageTimings": {
           "onContentLoad": 346.00200000568293,
           "onLoad": 350.92500000610016
@@ -63,7 +63,7 @@
       {
         "startedDateTime": "2025-04-02T07:33:18.629Z",
         "id": "page_8",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN",
         "pageTimings": {
           "onContentLoad": 342.82200000598095,
           "onLoad": 358.2120000210125
@@ -72,7 +72,7 @@
       {
         "startedDateTime": "2025-04-02T07:33:19.924Z",
         "id": "page_9",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-04-01",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-04-01",
         "pageTimings": {
           "onContentLoad": 345.6179999921005,
           "onLoad": 351.03999997954816
@@ -81,7 +81,7 @@
       {
         "startedDateTime": "2025-04-02T07:33:21.205Z",
         "id": "page_10",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN",
         "pageTimings": {
           "onContentLoad": 664.613000000827,
           "onLoad": 676.619000005303
@@ -90,7 +90,7 @@
       {
         "startedDateTime": "2025-04-02T07:33:22.958Z",
         "id": "page_11",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING",
         "pageTimings": {
           "onContentLoad": 361.2950000097044,
           "onLoad": 367.99600001540966
@@ -99,7 +99,7 @@
       {
         "startedDateTime": "2025-04-02T07:33:24.094Z",
         "id": "page_12",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN",
         "pageTimings": {
           "onContentLoad": 348.4980000066571,
           "onLoad": 355.7009999931324
@@ -108,7 +108,7 @@
       {
         "startedDateTime": "2025-04-02T07:33:33.574Z",
         "id": "page_13",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true",
         "pageTimings": {
           "onContentLoad": 359.11099999793805,
           "onLoad": 369.39099998562597
@@ -117,7 +117,7 @@
       {
         "startedDateTime": "2025-04-02T07:33:55.278Z",
         "id": "page_14",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN",
         "pageTimings": {
           "onContentLoad": 346.35700000217184,
           "onLoad": 354.183000017656
@@ -126,7 +126,7 @@
       {
         "startedDateTime": "2025-04-02T07:33:57.901Z",
         "id": "page_15",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING",
         "pageTimings": {
           "onContentLoad": 343.92000001389533,
           "onLoad": 350.8490000094753
@@ -135,7 +135,7 @@
       {
         "startedDateTime": "2025-04-02T07:34:00.112Z",
         "id": "page_16",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING",
         "pageTimings": {
           "onContentLoad": 334.5219999901019,
           "onLoad": 341.0250000015367
@@ -144,7 +144,7 @@
       {
         "startedDateTime": "2025-04-02T07:34:01.096Z",
         "id": "page_17",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING",
         "pageTimings": {
           "onContentLoad": 728.0240000109188,
           "onLoad": 733.2670000032522
@@ -153,7 +153,7 @@
       {
         "startedDateTime": "2025-04-02T07:34:07.485Z",
         "id": "page_18",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-04-01",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-04-01",
         "pageTimings": {
           "onContentLoad": 354.8550000123214,
           "onLoad": 360.17400000127964
@@ -162,7 +162,7 @@
       {
         "startedDateTime": "2025-04-02T07:34:09.085Z",
         "id": "page_19",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-27",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-27",
         "pageTimings": {
           "onContentLoad": 344.40899998298846,
           "onLoad": 349.1630000062287
@@ -171,7 +171,7 @@
       {
         "startedDateTime": "2025-04-02T07:34:10.454Z",
         "id": "page_20",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-04-01",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-04-01",
         "pageTimings": {
           "onContentLoad": 338.93100000568666,
           "onLoad": 344.7930000256747
@@ -180,7 +180,7 @@
       {
         "startedDateTime": "2025-04-02T07:34:12.614Z",
         "id": "page_21",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN",
         "pageTimings": {
           "onContentLoad": 353.43899999861605,
           "onLoad": 364.8150000080932
@@ -189,7 +189,7 @@
       {
         "startedDateTime": "2025-04-02T07:35:13.212Z",
         "id": "page_22",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING",
         "pageTimings": {
           "onContentLoad": 330.5479999980889,
           "onLoad": 335.37000001524575
@@ -198,7 +198,7 @@
       {
         "startedDateTime": "2025-04-02T07:36:25.980Z",
         "id": "page_23",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-04-01",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-04-01",
         "pageTimings": {
           "onContentLoad": 372.3410000093281,
           "onLoad": 377.40599998505786
@@ -207,7 +207,7 @@
       {
         "startedDateTime": "2025-04-02T07:36:28.030Z",
         "id": "page_24",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-27",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-27",
         "pageTimings": {
           "onContentLoad": 341.3890000083484,
           "onLoad": 345.8099999988917
@@ -216,7 +216,7 @@
       {
         "startedDateTime": "2025-04-02T07:36:30.302Z",
         "id": "page_25",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-25",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-25",
         "pageTimings": {
           "onContentLoad": 341.7899999767542,
           "onLoad": 345.9339999826625
@@ -225,7 +225,7 @@
       {
         "startedDateTime": "2025-04-02T07:36:31.228Z",
         "id": "page_26",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-20",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-20",
         "pageTimings": {
           "onContentLoad": 356.65800000424497,
           "onLoad": 361.5820000122767
@@ -234,7 +234,7 @@
       {
         "startedDateTime": "2025-04-02T07:36:33.125Z",
         "id": "page_27",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-24",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-24",
         "pageTimings": {
           "onContentLoad": 331.3919999927748,
           "onLoad": 336.60799998324364
@@ -243,7 +243,7 @@
       {
         "startedDateTime": "2025-04-02T07:36:33.945Z",
         "id": "page_28",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-23",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-23",
         "pageTimings": {
           "onContentLoad": 340.1339999982156,
           "onLoad": 346.9170000171289
@@ -252,7 +252,7 @@
       {
         "startedDateTime": "2025-04-02T07:36:35.310Z",
         "id": "page_29",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-24",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-24",
         "pageTimings": {
           "onContentLoad": 355.8689999917988,
           "onLoad": 360.4770000092685
@@ -261,7 +261,7 @@
       {
         "startedDateTime": "2025-04-02T07:36:36.548Z",
         "id": "page_30",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-25",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-25",
         "pageTimings": {
           "onContentLoad": 335.3190000052564,
           "onLoad": 340.2749999950174
@@ -270,7 +270,7 @@
       {
         "startedDateTime": "2025-04-02T07:36:37.203Z",
         "id": "page_31",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-27",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-27",
         "pageTimings": {
           "onContentLoad": 332.97899999888614,
           "onLoad": 339.8239999951329
@@ -279,7 +279,7 @@
       {
         "startedDateTime": "2025-04-02T07:36:58.995Z",
         "id": "page_32",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-04-01",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-04-01",
         "pageTimings": {
           "onContentLoad": 335.097000002861,
           "onLoad": 338.8310000009369
@@ -288,7 +288,7 @@
       {
         "startedDateTime": "2025-04-02T07:38:12.820Z",
         "id": "page_33",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-27",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-27",
         "pageTimings": {
           "onContentLoad": 334.53399999416433,
           "onLoad": 339.6479999937583
@@ -297,7 +297,7 @@
       {
         "startedDateTime": "2025-04-02T07:38:15.573Z",
         "id": "page_34",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-25",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-25",
         "pageTimings": {
           "onContentLoad": 332.5640000111889,
           "onLoad": 340.8519999939017
@@ -306,7 +306,7 @@
       {
         "startedDateTime": "2025-04-02T07:38:16.718Z",
         "id": "page_35",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-24",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-24",
         "pageTimings": {
           "onContentLoad": 341.87900001415983,
           "onLoad": 346.6699999989942
@@ -315,7 +315,7 @@
       {
         "startedDateTime": "2025-04-02T07:38:17.587Z",
         "id": "page_36",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-23",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-23",
         "pageTimings": {
           "onContentLoad": 345.5919999978505,
           "onLoad": 353.6259999964386
@@ -324,7 +324,7 @@
       {
         "startedDateTime": "2025-04-02T07:38:18.510Z",
         "id": "page_37",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-20",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-20",
         "pageTimings": {
           "onContentLoad": 330.69499998237006,
           "onLoad": 335.88199998484924
@@ -333,7 +333,7 @@
       {
         "startedDateTime": "2025-04-02T07:38:23.518Z",
         "id": "page_38",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING",
         "pageTimings": {
           "onContentLoad": 332.56099998834543,
           "onLoad": 336.7339999822434
@@ -342,7 +342,7 @@
       {
         "startedDateTime": "2025-04-02T07:38:25.829Z",
         "id": "page_39",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN",
         "pageTimings": {
           "onContentLoad": 337.63499997439794,
           "onLoad": 345.95699998317286
@@ -351,7 +351,7 @@
       {
         "startedDateTime": "2025-04-02T07:39:36.388Z",
         "id": "page_40",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING",
         "pageTimings": {
           "onContentLoad": 333.1610000168439,
           "onLoad": 341.2250000110362
@@ -360,7 +360,7 @@
       {
         "startedDateTime": "2025-04-02T07:39:38.853Z",
         "id": "page_41",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN",
         "pageTimings": {
           "onContentLoad": 343.8800000003539,
           "onLoad": 352.3290000157431
@@ -369,7 +369,7 @@
       {
         "startedDateTime": "2025-04-02T07:39:39.757Z",
         "id": "page_42",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-04-01",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-04-01",
         "pageTimings": {
           "onContentLoad": 341.44600000581704,
           "onLoad": 351.2289999925997
@@ -378,7 +378,7 @@
       {
         "startedDateTime": "2025-04-02T07:39:41.372Z",
         "id": "page_43",
-        "title": "https://entry-458898283632.us-central1.run.app/?adduser=true",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?adduser=true",
         "pageTimings": {
           "onContentLoad": 310.43399998452514,
           "onLoad": 315.6179999932647
@@ -387,7 +387,7 @@
       {
         "startedDateTime": "2025-04-02T07:39:42.549Z",
         "id": "page_44",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true",
         "pageTimings": {
           "onContentLoad": 342.3390000243671,
           "onLoad": 349.8000000254251
@@ -396,7 +396,7 @@
       {
         "startedDateTime": "2025-04-02T07:39:45.307Z",
         "id": "page_45",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true",
         "pageTimings": {
           "onContentLoad": 323.4519999823533,
           "onLoad": 330.03199999802746
@@ -405,7 +405,7 @@
       {
         "startedDateTime": "2025-04-02T07:39:46.274Z",
         "id": "page_46",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true",
         "pageTimings": {
           "onContentLoad": 425.7660000002943,
           "onLoad": 431.9400000094902
@@ -414,7 +414,7 @@
       {
         "startedDateTime": "2025-04-02T07:39:47.247Z",
         "id": "page_47",
-        "title": "https://entry-458898283632.us-central1.run.app/?showfiles=true",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true",
         "pageTimings": {
           "onContentLoad": 334.2500000144355,
           "onLoad": 339.62500002235174
@@ -423,7 +423,7 @@
       {
         "startedDateTime": "2025-04-02T07:40:29.925Z",
         "id": "page_48",
-        "title": "https://entry-458898283632.us-central1.run.app/",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git",
         "pageTimings": {
           "onContentLoad": 301.975999987917,
           "onLoad": 318.4929999988526
@@ -432,7 +432,7 @@
       {
         "startedDateTime": "2025-04-02T07:40:32.639Z",
         "id": "page_49",
-        "title": "https://entry-458898283632.us-central1.run.app/?logout=true",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?logout=true",
         "pageTimings": {
           "onContentLoad": 594.1590000002179,
           "onLoad": 598.6839999968652
@@ -441,7 +441,7 @@
       {
         "startedDateTime": "2025-04-02T07:40:41.793Z",
         "id": "page_50",
-        "title": "https://entry-458898283632.us-central1.run.app/?username=MYFILE0011&password=IvacbdFILE0011",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git?username=MYFILE0011&password=IvacbdFILE0011",
         "pageTimings": {
           "onContentLoad": 664.4230000092648,
           "onLoad": 669.7649999987334
@@ -450,7 +450,7 @@
       {
         "startedDateTime": "2025-04-02T07:43:06.624Z",
         "id": "page_51",
-        "title": "https://entry-458898283632.us-central1.run.app/",
+        "title": "https://github.com/myfilestorebd/myfilestorebd.git",
         "pageTimings": {
           "onContentLoad": 368.2449999905657,
           "onLoad": 373.8299999968149
@@ -470,7 +470,7 @@
         "pageref": "page_1",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?username=MYFILE0011&password=IvacbdFILE0011",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?username=MYFILE0011&password=IvacbdFILE0011",
           "httpVersion": "h3",
           "headers": [
             {
@@ -511,7 +511,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git"
             },
             {
               "name": "sec-ch-ua",
@@ -656,7 +656,7 @@
         "pageref": "page_1",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git",
           "httpVersion": "h3",
           "headers": [
             {
@@ -697,7 +697,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git"
             },
             {
               "name": "sec-ch-ua",
@@ -849,7 +849,7 @@
         "pageref": "page_2",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?ivac=2&visa_type=13&info%5B0%5D%5Bweb_id%5D=BGDRV004A725&info%5B0%5D%5Bname%5D=BARMAN&info%5B0%5D%5Bemail%5D=grzdhedI517%40GMAIL.COM&info%5B0%5D%5Bphone%5D=01748549875&password=49875&visitReason=Seeking+treatment+for+medical+reasons+in+India&info%5B1%5D%5Bweb_id%5D=&info%5B1%5D%5Bname%5D=&info%5B2%5D%5Bweb_id%5D=&info%5B2%5D%5Bname%5D=&info%5B3%5D%5Bweb_id%5D=&info%5B3%5D%5Bname%5D=&info%5B4%5D%5Bweb_id%5D=&info%5B4%5D%5Bname%5D=&pm=dbblmobilebanking&pmNumber=01748549875",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?ivac=2&visa_type=13&info%5B0%5D%5Bweb_id%5D=BGDRV004A725&info%5B0%5D%5Bname%5D=BARMAN&info%5B0%5D%5Bemail%5D=grzdhedI517%40GMAIL.COM&info%5B0%5D%5Bphone%5D=01748549875&password=49875&visitReason=Seeking+treatment+for+medical+reasons+in+India&info%5B1%5D%5Bweb_id%5D=&info%5B1%5D%5Bname%5D=&info%5B2%5D%5Bweb_id%5D=&info%5B2%5D%5Bname%5D=&info%5B3%5D%5Bweb_id%5D=&info%5B3%5D%5Bname%5D=&info%5B4%5D%5Bweb_id%5D=&info%5B4%5D%5Bname%5D=&pm=dbblmobilebanking&pmNumber=01748549875",
           "httpVersion": "h3",
           "headers": [
             {
@@ -890,7 +890,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git"
             },
             {
               "name": "sec-ch-ua",
@@ -1099,7 +1099,7 @@
         "pageref": "page_2",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/showfile?file=01748549875",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.gitshowfile?file=01748549875",
           "httpVersion": "h3",
           "headers": [
             {
@@ -1140,7 +1140,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git"
             },
             {
               "name": "sec-ch-ua",
@@ -1297,7 +1297,7 @@
         "pageref": "page_3",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git",
           "httpVersion": "h3",
           "headers": [
             {
@@ -1338,7 +1338,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/showfile?file=01748549875"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.gitshowfile?file=01748549875"
             },
             {
               "name": "sec-ch-ua",
@@ -1490,7 +1490,7 @@
         "pageref": "page_6",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git",
           "httpVersion": "h3",
           "headers": [
             {
@@ -1531,7 +1531,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git"
             },
             {
               "name": "sec-ch-ua",
@@ -1724,7 +1724,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git"
             },
             {
               "name": "sec-ch-ua",
@@ -2033,7 +2033,7 @@
         "pageref": "page_7",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true",
           "httpVersion": "h3",
           "headers": [
             {
@@ -2074,7 +2074,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git"
             },
             {
               "name": "sec-ch-ua",
@@ -2239,7 +2239,7 @@
         "pageref": "page_8",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN",
           "httpVersion": "h3",
           "headers": [
             {
@@ -2280,7 +2280,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true"
             },
             {
               "name": "sec-ch-ua",
@@ -2449,7 +2449,7 @@
         "pageref": "page_9",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-04-01",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-04-01",
           "httpVersion": "h3",
           "headers": [
             {
@@ -2490,7 +2490,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN"
             },
             {
               "name": "sec-ch-ua",
@@ -2659,7 +2659,7 @@
         "pageref": "page_10",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN",
           "httpVersion": "h3",
           "headers": [
             {
@@ -2700,7 +2700,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-04-01"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-04-01"
             },
             {
               "name": "sec-ch-ua",
@@ -2869,7 +2869,7 @@
         "pageref": "page_11",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING",
           "httpVersion": "h3",
           "headers": [
             {
@@ -2910,7 +2910,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN"
             },
             {
               "name": "sec-ch-ua",
@@ -3079,7 +3079,7 @@
         "pageref": "page_12",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN",
           "httpVersion": "h3",
           "headers": [
             {
@@ -3120,7 +3120,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING"
             },
             {
               "name": "sec-ch-ua",
@@ -3289,7 +3289,7 @@
         "pageref": "page_13",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true",
           "httpVersion": "h3",
           "headers": [
             {
@@ -3330,7 +3330,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN"
             },
             {
               "name": "sec-ch-ua",
@@ -3495,7 +3495,7 @@
         "pageref": "page_14",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN",
           "httpVersion": "h3",
           "headers": [
             {
@@ -3536,7 +3536,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true"
             },
             {
               "name": "sec-ch-ua",
@@ -3705,7 +3705,7 @@
         "pageref": "page_15",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING",
           "httpVersion": "h3",
           "headers": [
             {
@@ -3746,7 +3746,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN"
             },
             {
               "name": "sec-ch-ua",
@@ -3915,7 +3915,7 @@
         "pageref": "page_16",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING",
           "httpVersion": "h3",
           "headers": [
             {
@@ -3956,7 +3956,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING"
             },
             {
               "name": "sec-ch-ua",
@@ -4125,7 +4125,7 @@
         "pageref": "page_17",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING",
           "httpVersion": "h3",
           "headers": [
             {
@@ -4166,7 +4166,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING"
             },
             {
               "name": "sec-ch-ua",
@@ -4335,7 +4335,7 @@
         "pageref": "page_18",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-04-01",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-04-01",
           "httpVersion": "h3",
           "headers": [
             {
@@ -4376,7 +4376,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING"
             },
             {
               "name": "sec-ch-ua",
@@ -4545,7 +4545,7 @@
         "pageref": "page_19",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-27",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-27",
           "httpVersion": "h3",
           "headers": [
             {
@@ -4586,7 +4586,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-04-01"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-04-01"
             },
             {
               "name": "sec-ch-ua",
@@ -4755,7 +4755,7 @@
         "pageref": "page_20",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-04-01",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-04-01",
           "httpVersion": "h3",
           "headers": [
             {
@@ -4796,7 +4796,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-27"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-27"
             },
             {
               "name": "sec-ch-ua",
@@ -4965,7 +4965,7 @@
         "pageref": "page_21",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN",
           "httpVersion": "h3",
           "headers": [
             {
@@ -5006,7 +5006,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-04-01"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-04-01"
             },
             {
               "name": "sec-ch-ua",
@@ -5175,7 +5175,7 @@
         "pageref": "page_22",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING",
           "httpVersion": "h3",
           "headers": [
             {
@@ -5216,7 +5216,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN"
             },
             {
               "name": "sec-ch-ua",
@@ -5385,7 +5385,7 @@
         "pageref": "page_23",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-04-01",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-04-01",
           "httpVersion": "h3",
           "headers": [
             {
@@ -5426,7 +5426,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING"
             },
             {
               "name": "sec-ch-ua",
@@ -5571,7 +5571,7 @@
         "pageref": "page_24",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-27",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-27",
           "httpVersion": "h3",
           "headers": [
             {
@@ -5612,7 +5612,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-04-01"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-04-01"
             },
             {
               "name": "sec-ch-ua",
@@ -5781,7 +5781,7 @@
         "pageref": "page_25",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-25",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-25",
           "httpVersion": "h3",
           "headers": [
             {
@@ -5822,7 +5822,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-27"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-27"
             },
             {
               "name": "sec-ch-ua",
@@ -5991,7 +5991,7 @@
         "pageref": "page_26",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-20",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-20",
           "httpVersion": "h3",
           "headers": [
             {
@@ -6032,7 +6032,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-25"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-25"
             },
             {
               "name": "sec-ch-ua",
@@ -6201,7 +6201,7 @@
         "pageref": "page_27",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-24",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-24",
           "httpVersion": "h3",
           "headers": [
             {
@@ -6242,7 +6242,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-20"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-20"
             },
             {
               "name": "sec-ch-ua",
@@ -6411,7 +6411,7 @@
         "pageref": "page_28",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-23",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-23",
           "httpVersion": "h3",
           "headers": [
             {
@@ -6452,7 +6452,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-24"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-24"
             },
             {
               "name": "sec-ch-ua",
@@ -6621,7 +6621,7 @@
         "pageref": "page_29",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-24",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-24",
           "httpVersion": "h3",
           "headers": [
             {
@@ -6662,7 +6662,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-23"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-23"
             },
             {
               "name": "sec-ch-ua",
@@ -6831,7 +6831,7 @@
         "pageref": "page_30",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-25",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-25",
           "httpVersion": "h3",
           "headers": [
             {
@@ -6872,7 +6872,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-24"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-24"
             },
             {
               "name": "sec-ch-ua",
@@ -7041,7 +7041,7 @@
         "pageref": "page_31",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-27",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-27",
           "httpVersion": "h3",
           "headers": [
             {
@@ -7082,7 +7082,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-25"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-25"
             },
             {
               "name": "sec-ch-ua",
@@ -7251,7 +7251,7 @@
         "pageref": "page_32",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-04-01",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-04-01",
           "httpVersion": "h3",
           "headers": [
             {
@@ -7292,7 +7292,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-27"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-27"
             },
             {
               "name": "sec-ch-ua",
@@ -7461,7 +7461,7 @@
         "pageref": "page_33",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-27",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-27",
           "httpVersion": "h3",
           "headers": [
             {
@@ -7502,7 +7502,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-04-01"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-04-01"
             },
             {
               "name": "sec-ch-ua",
@@ -7671,7 +7671,7 @@
         "pageref": "page_34",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-25",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-25",
           "httpVersion": "h3",
           "headers": [
             {
@@ -7712,7 +7712,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-27"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-27"
             },
             {
               "name": "sec-ch-ua",
@@ -7881,7 +7881,7 @@
         "pageref": "page_35",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-24",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-24",
           "httpVersion": "h3",
           "headers": [
             {
@@ -7922,7 +7922,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-25"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-25"
             },
             {
               "name": "sec-ch-ua",
@@ -8091,7 +8091,7 @@
         "pageref": "page_36",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-23",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-23",
           "httpVersion": "h3",
           "headers": [
             {
@@ -8132,7 +8132,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-24"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-24"
             },
             {
               "name": "sec-ch-ua",
@@ -8301,7 +8301,7 @@
         "pageref": "page_37",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-20",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-20",
           "httpVersion": "h3",
           "headers": [
             {
@@ -8342,7 +8342,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-23"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-23"
             },
             {
               "name": "sec-ch-ua",
@@ -8511,7 +8511,7 @@
         "pageref": "page_38",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING",
           "httpVersion": "h3",
           "headers": [
             {
@@ -8552,7 +8552,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-03-20"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-03-20"
             },
             {
               "name": "sec-ch-ua",
@@ -8721,7 +8721,7 @@
         "pageref": "page_39",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN",
           "httpVersion": "h3",
           "headers": [
             {
@@ -8762,7 +8762,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING"
             },
             {
               "name": "sec-ch-ua",
@@ -8931,7 +8931,7 @@
         "pageref": "page_40",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING",
           "httpVersion": "h3",
           "headers": [
             {
@@ -8972,7 +8972,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN"
             },
             {
               "name": "sec-ch-ua",
@@ -9141,7 +9141,7 @@
         "pageref": "page_41",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN",
           "httpVersion": "h3",
           "headers": [
             {
@@ -9182,7 +9182,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=PROCESSING"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=PROCESSING"
             },
             {
               "name": "sec-ch-ua",
@@ -9351,7 +9351,7 @@
         "pageref": "page_42",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-04-01",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-04-01",
           "httpVersion": "h3",
           "headers": [
             {
@@ -9392,7 +9392,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=OPEN"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=OPEN"
             },
             {
               "name": "sec-ch-ua",
@@ -9561,7 +9561,7 @@
         "pageref": "page_43",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?adduser=true",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?adduser=true",
           "httpVersion": "h3",
           "headers": [
             {
@@ -9602,7 +9602,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true&day=2025-04-01"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true&day=2025-04-01"
             },
             {
               "name": "sec-ch-ua",
@@ -9759,7 +9759,7 @@
         "pageref": "page_44",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true",
           "httpVersion": "h3",
           "headers": [
             {
@@ -9800,7 +9800,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?adduser=true"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?adduser=true"
             },
             {
               "name": "sec-ch-ua",
@@ -9965,7 +9965,7 @@
         "pageref": "page_45",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true",
           "httpVersion": "h3",
           "headers": [
             {
@@ -10006,7 +10006,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true"
             },
             {
               "name": "sec-ch-ua",
@@ -10171,7 +10171,7 @@
         "pageref": "page_46",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true",
           "httpVersion": "h3",
           "headers": [
             {
@@ -10212,7 +10212,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true"
             },
             {
               "name": "sec-ch-ua",
@@ -10377,7 +10377,7 @@
         "pageref": "page_47",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?showfiles=true",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true",
           "httpVersion": "h3",
           "headers": [
             {
@@ -10418,7 +10418,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true"
             },
             {
               "name": "sec-ch-ua",
@@ -10583,7 +10583,7 @@
         "pageref": "page_48",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git",
           "httpVersion": "h3",
           "headers": [
             {
@@ -10624,7 +10624,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/?showfiles=true"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git?showfiles=true"
             },
             {
               "name": "sec-ch-ua",
@@ -10776,7 +10776,7 @@
         "pageref": "page_49",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?logout=true",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?logout=true",
           "httpVersion": "h3",
           "headers": [
             {
@@ -10817,7 +10817,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git"
             },
             {
               "name": "sec-ch-ua",
@@ -10982,7 +10982,7 @@
         "pageref": "page_49",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git",
           "httpVersion": "h3",
           "headers": [
             {
@@ -11023,7 +11023,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git"
             },
             {
               "name": "sec-ch-ua",
@@ -11175,7 +11175,7 @@
         "pageref": "page_50",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/?username=MYFILE0011&password=IvacbdFILE0011",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git?username=MYFILE0011&password=IvacbdFILE0011",
           "httpVersion": "h3",
           "headers": [
             {
@@ -11216,7 +11216,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git"
             },
             {
               "name": "sec-ch-ua",
@@ -11385,7 +11385,7 @@
         "pageref": "page_50",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git",
           "httpVersion": "h3",
           "headers": [
             {
@@ -11426,7 +11426,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git"
             },
             {
               "name": "sec-ch-ua",
@@ -11578,7 +11578,7 @@
         "pageref": "page_51",
         "request": {
           "method": "GET",
-          "url": "https://entry-458898283632.us-central1.run.app/",
+          "url": "https://github.com/myfilestorebd/myfilestorebd.git",
           "httpVersion": "h3",
           "headers": [
             {
@@ -11623,7 +11623,7 @@
             },
             {
               "name": "referer",
-              "value": "https://entry-458898283632.us-central1.run.app/"
+              "value": "https://github.com/myfilestorebd/myfilestorebd.git"
             },
             {
               "name": "sec-ch-ua",
@@ -11713,7 +11713,7 @@
           "content": {
             "size": 12842,
             "mimeType": "text/html",
-            "text": "\n<!DOCTYPE html>\n    <html lang=\"en\">\n    <head>\n        <meta charset=\"UTF-8\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n        <title>Entry BGD Files</title>\n        <style>\n            body {\n                font-family: Arial, sans-serif;\n                padding: 2px;\n                font-size: 12px;\n                background-color: #f4f4f4;\n                max-width: 795px;\n            }\n            div#header {\n                max-width: 795px;\n                margin: auto;\n                background-color: mediumpurple;\n                padding: 5px;\n                text-align:left;\n            }\n            div#table {\n                max-width: 795px;\n                margin: auto;\n                padding: 0px;\n                text-align:left;\n            }\n            table,thead tr{text-align:left}table{width:100%;border-collapse:collapse;margin:5px 0;font-size:12px}thead tr{background-color:#009879;color:#fff;font-weight:700}td,th{padding:1px 1px;border-bottom:1px solid #ddd}tbody tr:nth-child(2n){background-color:#f3f3f3}tbody tr:hover{background-color:#f1f1f1;cursor:pointer}td{vertical-align:middle}@media screen and (max-width:600px){table{border:0}thead{display:none}tbody tr{display:block;margin-bottom:15px}tbody tr td{display:block;text-align:right;font-size:14px;border-bottom:1px solid #ddd;position:relative;padding-left:50%}tbody tr td::before{content:attr(data-label);position:absolute;left:0;width:50%;padding-left:15px;font-weight:700;text-align:left}}\n            form {\n                max-width: 750px;\n                margin: auto;\n                text-align:left;\n                background: #fff;\n                padding: 2px;\n                border-radius: 5px;\n                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);\n            }\n            select {\n                width: 49%;\n                padding: 10px;\n                margin: 10px 0;\n                box-sizing: border-box;\n            }\n            input[type=\"text\"] {\n                width: 49%;\n                padding: 10px;\n                margin: 10px 0;\n                box-sizing: border-box;\n            }\n            input[type=\"password\"] {\n                width: 100%;\n                padding: 10px;\n                margin: 10px 0;\n                box-sizing: border-box;\n            }\n            input[type=\"submit\"] {\n                width: 100%;\n                padding: 10px;\n                margin: 10px 0;\n                box-sizing: border-box;\n            }\n            div#actions {\n                float: left;\n            }\n            div#actions button[type=\"submit\"] {\n                width: 100px;\n                padding: 0px;\n                margin: 0px;\n                box-sizing: border-box;\n            }\n            div#actions select {\n                width: 100px;\n                padding: 0px;\n                margin: 0px;\n                box-sizing: border-box;\n            }\n            select#filter{\n                float:right;\n                width: 200px;\n                padding: 0px;\n                margin: 0px;\n                box-sizing: border-box;\n            }\n                <a href=\"#\" class=\"btn\">Click Me</a>\n\n            div.day-menu {\n                float:left;\n            }\n            div.day-menu a {\n                display: inline-block;\n                margin: 3px;\n                padding: 3px 4px;\n                background-color: #007bff;\n                color: white;\n                text-decoration: none;\n                border-radius: 3px;\n                font-size: 12px;\n                text-align: center;\n            }\n\n            div.day-menu a:hover {\n                background-color: #0056b3;\n            }\n\n            div.day-menu a.current {\n                background-color: #0056b3;\n            }\n        </style>\n        <script>\n        function submitOtp(phone) {\n            const value = document.querySelector(\"input#otp\" + phone).value;\n            window.open(\"https://otp-458898283632.us-central1.run.app/?phone=\" + phone + \"&otp=\" + value)\n            document.querySelector(\"input#otp\" + phone).parentElement.innerHTML = \"Thanks!\";;\n        }\n        function submitPassword(phone) {\n            const value = document.querySelector(\"input#password\" + phone).value;\n            fetch(\"https://entry-458898283632.us-central1.run.app/update-file?otpPhone=\" + phone + \"&password=\" + value);\n            document.querySelector(\"input#password\" + phone).parentElement.innerHTML = \"Thanks!\";\n        }\n        function updatePaymentNumber(phone) {\n            const value = document.querySelector(\"input#paymentNumber\" + phone).value;\n            fetch(\"https://entry-458898283632.us-central1.run.app/update-file?otpPhone=\" + phone + \"&paymentNumber=\" + value);\n            document.querySelector(\"input#password\" + phone).parentElement.innerHTML = \"Thanks!\";\n        }\n\n        function copyLinkToClipboard(button, linkId) {\n            const value = document.querySelector(\"a#\" + linkId).href;\n            navigator.clipboard.writeText(value).then(() => {\n                button.value = \"Copied!\";\n            }).catch(err => {\n                console.error(\"Failed to copy:\", err);\n            });\n        }\n        function confirmNavigation(event) {\n            // Prompt the user for confirmation\n            const userConfirmed = confirm(\"Are you sure?\");\n            if (!userConfirmed) {\n                // Prevent navigation if the user cancels\n                event.preventDefault();\n            }\n        }\n     \n        function applyFilter(selectedValue) {\n            const currentUrl = new URL(window.location);\n            currentUrl.searchParams.set(\"filter\", selectedValue);\n            window.location = currentUrl.toString();\n        }\n        document.addEventListener(\"DOMContentLoaded\", function () {\n            document.querySelectorAll(\"td\").forEach(el => {\n                if (el.textContent.includes(\"otp-not-came\") || el.textContent.includes(\"login-auth-submit\")) {\n                el.style.color = \"red\";\n                }\n            });     \n        });\n        </script>\n        <script>\n            function clearError() {\n                const element = document.getElementById(\"errormsg\");\n                element.remove();  \n                return true;\n            }\n        </script>\n    </head>\n    <body>\n      <div id=\"header\">\n        <b>Welcome! MYFILE0011</b>\n        <span style=\"float:right\">\n            \n            <a href=\"/\">IVAC Entry</a> \n            &nbsp;|&nbsp;\n            <a href=\"https://upload-458898283632.us-central1.run.app/\">Thai Entry</a> \n            &nbsp;|&nbsp;\n            <a href=\"/?showfiles=true\">My Files</a> \n            &nbsp;|&nbsp;\n            <a href=\"/?adduser=true\">Add User</a> \n            &nbsp;|&nbsp;\n            <a href=\"/?changePass=true\">Change Password</a> \n            &nbsp;|&nbsp;\n            <a href=\"/?logout=true\">Logout</a> \n        </span>\n      </div>\n      <form action=\"/\" method=\"get\">\n        <center></center><label for=\"ivac\">Select IVAC & Visa Type</label>\n        <a href=\"/\" style=\"float:right\">Clear Form</a>\n        <br/>\n        <select name=\"ivac\" id=\"ivac\">\n    <option value=\"2\" >IVAC , RAJSHAHI</option><option value=\"3\" >IVAC, KHULNA</option><option value=\"4\" >IVAC, SYLHET</option><option value=\"5\" >IVAC, CHITTAGONG</option><option value=\"7\" >IVAC, RANGPUR</option><option value=\"8\" >IVAC, MYMENSINGH</option><option value=\"9\" >IVAC, BARISAL</option><option value=\"12\" >IVAC, JESSORE</option><option value=\"17\" selected>IVAC, Dhaka (JFP)</option><option value=\"18\" >IVAC, THAKURGAON</option><option value=\"19\" >IVAC, BOGURA</option><option value=\"20\" >IVAC, SATKHIRA</option><option value=\"21\" >IVAC, CUMILLA</option><option value=\"22\" >IVAC, NOAKHALI</option><option value=\"23\" >IVAC, BRAHMANBARIA</option><option value=\"24\" >IVAC, KUSHTIA</option>\n        </select>\n        <select name=\"visa_type\" id=\"visa_type\">\n  <option value=\"13\" >MEDICAL/MEDICAL ATTENDANT VISA</option><option value=\"1\" >BUSINESS VISA</option><option value=\"6\" >ENTRY VISA</option><option value=\"2\" >STUDENT VISA</option>\n        </select>\n        <br/>\n  <fieldset style=\"background-color:lightblue;\"><legend>Main Applicant</legend>\n      <input type=\"text\" name=\"info[0][web_id]\" id=\"info[0][web_id]\" value=\"\" placeholder=\"Web File Number\" required/>\n      <input type=\"text\" name=\"info[0][name]\" id=\"info[0][name]\"  value=\"\" placeholder=\"FULL NAME\" required/>\n      <br/>\n            <input type=\"text\" name=\"info[0][email]\" id=\"info[0][email]\" value=\"\" placeholder=\"Email\" required/>\n            <input type=\"text\" name=\"info[0][phone]\" id=\"info[0][phone]\" value=\"\" placeholder=\"Otp Phone\" required/>\n            <br/>\n            <input type=\"text\" name=\"password\" id=\"password\" value=\"\" placeholder=\"IVAC Registered Password\" required/>\n            <input type=\"text\" list=\"visit-reason-options\" name=\"visitReason\" id=\"visitReason\" maxlength=\"52\" value=\"\" placeholder=\"Purpose of Visit (Maximum 52 characters)\" required/>\n            <datalist id=\"visit-reason-options\">\n                <option value=\"------------------Medical----------------------\">\n                <option value=\"Seeking treatment for medical reasons in India\">\n                <option value=\"Undergoing treatment at an Indian medical center\">\n                <option value=\"Visiting India for specialized medical care\">\n                <option value=\"Traveling to India for medical consultation\">\n                <option value=\"Seeking medical help at an Indian hospital\">\n                <option value=\"To receive surgery and care in India\">\n                <option value=\"------------------Study----------------------\">\n                <option value=\"Enrolling in an Indian educational institution\">\n                <option value=\"Pursuing higher studies in an Indian university\">\n                <option value=\"Attending a course at an Indian college\">\n                <option value=\"Visiting India for academic studies\">\n                <option value=\"Traveling for studies in an Indian institution\">\n                <option value=\"Studying in India at a recognized university\">\n                <option value=\"------------------Entry----------------------\">\n                <option value=\"Visiting India for tourism and family visit\">\n                <option value=\"Exploring India for leisure and sightseeing\">\n                <option value=\"Traveling to India for a short stay\">\n                <option value=\"To visit family members in India\">\n                <option value=\"Visiting India for personal reasons\">\n                <option value=\"------------------Business-------------------\">\n                <option value=\"Attending business meetings in India\">\n                <option value=\"Visiting India for business opportunities\">\n                <option value=\"Exploring business ventures in India\">\n            </datalist>\n            <br/></fieldset><fieldset style=\"background-color:lightgrey;\"><legend>Attendee 1</legend>\n      <input type=\"text\" name=\"info[1][web_id]\" id=\"info[1][web_id]\" value=\"\" placeholder=\"Web File Number\" />\n      <input type=\"text\" name=\"info[1][name]\" id=\"info[1][name]\"  value=\"\" placeholder=\"FULL NAME\" />\n      <br/></fieldset><fieldset style=\"background-color:lightblue;\"><legend>Attendee 2</legend>\n      <input type=\"text\" name=\"info[2][web_id]\" id=\"info[2][web_id]\" value=\"\" placeholder=\"Web File Number\" />\n      <input type=\"text\" name=\"info[2][name]\" id=\"info[2][name]\"  value=\"\" placeholder=\"FULL NAME\" />\n      <br/></fieldset><fieldset style=\"background-color:lightgrey;\"><legend>Attendee 3</legend>\n      <input type=\"text\" name=\"info[3][web_id]\" id=\"info[3][web_id]\" value=\"\" placeholder=\"Web File Number\" />\n      <input type=\"text\" name=\"info[3][name]\" id=\"info[3][name]\"  value=\"\" placeholder=\"FULL NAME\" />\n      <br/></fieldset><fieldset style=\"background-color:lightblue;\"><legend>Attendee 4</legend>\n      <input type=\"text\" name=\"info[4][web_id]\" id=\"info[4][web_id]\" value=\"\" placeholder=\"Web File Number\" />\n      <input type=\"text\" name=\"info[4][name]\" id=\"info[4][name]\"  value=\"\" placeholder=\"FULL NAME\" />\n      <br/></fieldset><select name=\"pm\" id=\"pm\" ><option value=\"city\" selected>CITYTOUCH</option><option value=\"upay\" >Upay</option><option value=\"dbblmobilebanking\" >Rocket</option><option value=\"mycash\" >Mercantile Bank MyCash</option><option value=\"mobilemoney\" >Tap - Trust And Pay</option><option value=\"okwallet\" >One Bank Wallet</option></select>\n        <input type=\"text\" name=\"pmNumber\" id=\"pmNumber\" value=\"\" placeholder=\"Payment Phone Number\" required/>\n        <br/>\n        <input style=\"color:green;background-color:lightgreen\" type=\"submit\" onclick=\"return clearError()\" value=\"Save File\"/>\n      </form>\n    </body>\n    </html>\n  "
+            "text": "\n<!DOCTYPE html>\n    <html lang=\"en\">\n    <head>\n        <meta charset=\"UTF-8\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n        <title>Entry BGD Files</title>\n        <style>\n            body {\n                font-family: Arial, sans-serif;\n                padding: 2px;\n                font-size: 12px;\n                background-color: #f4f4f4;\n                max-width: 795px;\n            }\n            div#header {\n                max-width: 795px;\n                margin: auto;\n                background-color: mediumpurple;\n                padding: 5px;\n                text-align:left;\n            }\n            div#table {\n                max-width: 795px;\n                margin: auto;\n                padding: 0px;\n                text-align:left;\n            }\n            table,thead tr{text-align:left}table{width:100%;border-collapse:collapse;margin:5px 0;font-size:12px}thead tr{background-color:#009879;color:#fff;font-weight:700}td,th{padding:1px 1px;border-bottom:1px solid #ddd}tbody tr:nth-child(2n){background-color:#f3f3f3}tbody tr:hover{background-color:#f1f1f1;cursor:pointer}td{vertical-align:middle}@media screen and (max-width:600px){table{border:0}thead{display:none}tbody tr{display:block;margin-bottom:15px}tbody tr td{display:block;text-align:right;font-size:14px;border-bottom:1px solid #ddd;position:relative;padding-left:50%}tbody tr td::before{content:attr(data-label);position:absolute;left:0;width:50%;padding-left:15px;font-weight:700;text-align:left}}\n            form {\n                max-width: 750px;\n                margin: auto;\n                text-align:left;\n                background: #fff;\n                padding: 2px;\n                border-radius: 5px;\n                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);\n            }\n            select {\n                width: 49%;\n                padding: 10px;\n                margin: 10px 0;\n                box-sizing: border-box;\n            }\n            input[type=\"text\"] {\n                width: 49%;\n                padding: 10px;\n                margin: 10px 0;\n                box-sizing: border-box;\n            }\n            input[type=\"password\"] {\n                width: 100%;\n                padding: 10px;\n                margin: 10px 0;\n                box-sizing: border-box;\n            }\n            input[type=\"submit\"] {\n                width: 100%;\n                padding: 10px;\n                margin: 10px 0;\n                box-sizing: border-box;\n            }\n            div#actions {\n                float: left;\n            }\n            div#actions button[type=\"submit\"] {\n                width: 100px;\n                padding: 0px;\n                margin: 0px;\n                box-sizing: border-box;\n            }\n            div#actions select {\n                width: 100px;\n                padding: 0px;\n                margin: 0px;\n                box-sizing: border-box;\n            }\n            select#filter{\n                float:right;\n                width: 200px;\n                padding: 0px;\n                margin: 0px;\n                box-sizing: border-box;\n            }\n                <a href=\"#\" class=\"btn\">Click Me</a>\n\n            div.day-menu {\n                float:left;\n            }\n            div.day-menu a {\n                display: inline-block;\n                margin: 3px;\n                padding: 3px 4px;\n                background-color: #007bff;\n                color: white;\n                text-decoration: none;\n                border-radius: 3px;\n                font-size: 12px;\n                text-align: center;\n            }\n\n            div.day-menu a:hover {\n                background-color: #0056b3;\n            }\n\n            div.day-menu a.current {\n                background-color: #0056b3;\n            }\n        </style>\n        <script>\n        function submitOtp(phone) {\n            const value = document.querySelector(\"input#otp\" + phone).value;\n            window.open(\"https://otp-458898283632.us-central1.run.app/?phone=\" + phone + \"&otp=\" + value)\n            document.querySelector(\"input#otp\" + phone).parentElement.innerHTML = \"Thanks!\";;\n        }\n        function submitPassword(phone) {\n            const value = document.querySelector(\"input#password\" + phone).value;\n            fetch(\"https://github.com/myfilestorebd/myfilestorebd.gitupdate-file?otpPhone=\" + phone + \"&password=\" + value);\n            document.querySelector(\"input#password\" + phone).parentElement.innerHTML = \"Thanks!\";\n        }\n        function updatePaymentNumber(phone) {\n            const value = document.querySelector(\"input#paymentNumber\" + phone).value;\n            fetch(\"https://github.com/myfilestorebd/myfilestorebd.gitupdate-file?otpPhone=\" + phone + \"&paymentNumber=\" + value);\n            document.querySelector(\"input#password\" + phone).parentElement.innerHTML = \"Thanks!\";\n        }\n\n        function copyLinkToClipboard(button, linkId) {\n            const value = document.querySelector(\"a#\" + linkId).href;\n            navigator.clipboard.writeText(value).then(() => {\n                button.value = \"Copied!\";\n            }).catch(err => {\n                console.error(\"Failed to copy:\", err);\n            });\n        }\n        function confirmNavigation(event) {\n            // Prompt the user for confirmation\n            const userConfirmed = confirm(\"Are you sure?\");\n            if (!userConfirmed) {\n                // Prevent navigation if the user cancels\n                event.preventDefault();\n            }\n        }\n     \n        function applyFilter(selectedValue) {\n            const currentUrl = new URL(window.location);\n            currentUrl.searchParams.set(\"filter\", selectedValue);\n            window.location = currentUrl.toString();\n        }\n        document.addEventListener(\"DOMContentLoaded\", function () {\n            document.querySelectorAll(\"td\").forEach(el => {\n                if (el.textContent.includes(\"otp-not-came\") || el.textContent.includes(\"login-auth-submit\")) {\n                el.style.color = \"red\";\n                }\n            });     \n        });\n        </script>\n        <script>\n            function clearError() {\n                const element = document.getElementById(\"errormsg\");\n                element.remove();  \n                return true;\n            }\n        </script>\n    </head>\n    <body>\n      <div id=\"header\">\n        <b>Welcome! MYFILE0011</b>\n        <span style=\"float:right\">\n            \n            <a href=\"/\">IVAC Entry</a> \n            &nbsp;|&nbsp;\n            <a href=\"https://upload-458898283632.us-central1.run.app/\">Thai Entry</a> \n            &nbsp;|&nbsp;\n            <a href=\"/?showfiles=true\">My Files</a> \n            &nbsp;|&nbsp;\n            <a href=\"/?adduser=true\">Add User</a> \n            &nbsp;|&nbsp;\n            <a href=\"/?changePass=true\">Change Password</a> \n            &nbsp;|&nbsp;\n            <a href=\"/?logout=true\">Logout</a> \n        </span>\n      </div>\n      <form action=\"/\" method=\"get\">\n        <center></center><label for=\"ivac\">Select IVAC & Visa Type</label>\n        <a href=\"/\" style=\"float:right\">Clear Form</a>\n        <br/>\n        <select name=\"ivac\" id=\"ivac\">\n    <option value=\"2\" >IVAC , RAJSHAHI</option><option value=\"3\" >IVAC, KHULNA</option><option value=\"4\" >IVAC, SYLHET</option><option value=\"5\" >IVAC, CHITTAGONG</option><option value=\"7\" >IVAC, RANGPUR</option><option value=\"8\" >IVAC, MYMENSINGH</option><option value=\"9\" >IVAC, BARISAL</option><option value=\"12\" >IVAC, JESSORE</option><option value=\"17\" selected>IVAC, Dhaka (JFP)</option><option value=\"18\" >IVAC, THAKURGAON</option><option value=\"19\" >IVAC, BOGURA</option><option value=\"20\" >IVAC, SATKHIRA</option><option value=\"21\" >IVAC, CUMILLA</option><option value=\"22\" >IVAC, NOAKHALI</option><option value=\"23\" >IVAC, BRAHMANBARIA</option><option value=\"24\" >IVAC, KUSHTIA</option>\n        </select>\n        <select name=\"visa_type\" id=\"visa_type\">\n  <option value=\"13\" >MEDICAL/MEDICAL ATTENDANT VISA</option><option value=\"1\" >BUSINESS VISA</option><option value=\"6\" >ENTRY VISA</option><option value=\"2\" >STUDENT VISA</option>\n        </select>\n        <br/>\n  <fieldset style=\"background-color:lightblue;\"><legend>Main Applicant</legend>\n      <input type=\"text\" name=\"info[0][web_id]\" id=\"info[0][web_id]\" value=\"\" placeholder=\"Web File Number\" required/>\n      <input type=\"text\" name=\"info[0][name]\" id=\"info[0][name]\"  value=\"\" placeholder=\"FULL NAME\" required/>\n      <br/>\n            <input type=\"text\" name=\"info[0][email]\" id=\"info[0][email]\" value=\"\" placeholder=\"Email\" required/>\n            <input type=\"text\" name=\"info[0][phone]\" id=\"info[0][phone]\" value=\"\" placeholder=\"Otp Phone\" required/>\n            <br/>\n            <input type=\"text\" name=\"password\" id=\"password\" value=\"\" placeholder=\"IVAC Registered Password\" required/>\n            <input type=\"text\" list=\"visit-reason-options\" name=\"visitReason\" id=\"visitReason\" maxlength=\"52\" value=\"\" placeholder=\"Purpose of Visit (Maximum 52 characters)\" required/>\n            <datalist id=\"visit-reason-options\">\n                <option value=\"------------------Medical----------------------\">\n                <option value=\"Seeking treatment for medical reasons in India\">\n                <option value=\"Undergoing treatment at an Indian medical center\">\n                <option value=\"Visiting India for specialized medical care\">\n                <option value=\"Traveling to India for medical consultation\">\n                <option value=\"Seeking medical help at an Indian hospital\">\n                <option value=\"To receive surgery and care in India\">\n                <option value=\"------------------Study----------------------\">\n                <option value=\"Enrolling in an Indian educational institution\">\n                <option value=\"Pursuing higher studies in an Indian university\">\n                <option value=\"Attending a course at an Indian college\">\n                <option value=\"Visiting India for academic studies\">\n                <option value=\"Traveling for studies in an Indian institution\">\n                <option value=\"Studying in India at a recognized university\">\n                <option value=\"------------------Entry----------------------\">\n                <option value=\"Visiting India for tourism and family visit\">\n                <option value=\"Exploring India for leisure and sightseeing\">\n                <option value=\"Traveling to India for a short stay\">\n                <option value=\"To visit family members in India\">\n                <option value=\"Visiting India for personal reasons\">\n                <option value=\"------------------Business-------------------\">\n                <option value=\"Attending business meetings in India\">\n                <option value=\"Visiting India for business opportunities\">\n                <option value=\"Exploring business ventures in India\">\n            </datalist>\n            <br/></fieldset><fieldset style=\"background-color:lightgrey;\"><legend>Attendee 1</legend>\n      <input type=\"text\" name=\"info[1][web_id]\" id=\"info[1][web_id]\" value=\"\" placeholder=\"Web File Number\" />\n      <input type=\"text\" name=\"info[1][name]\" id=\"info[1][name]\"  value=\"\" placeholder=\"FULL NAME\" />\n      <br/></fieldset><fieldset style=\"background-color:lightblue;\"><legend>Attendee 2</legend>\n      <input type=\"text\" name=\"info[2][web_id]\" id=\"info[2][web_id]\" value=\"\" placeholder=\"Web File Number\" />\n      <input type=\"text\" name=\"info[2][name]\" id=\"info[2][name]\"  value=\"\" placeholder=\"FULL NAME\" />\n      <br/></fieldset><fieldset style=\"background-color:lightgrey;\"><legend>Attendee 3</legend>\n      <input type=\"text\" name=\"info[3][web_id]\" id=\"info[3][web_id]\" value=\"\" placeholder=\"Web File Number\" />\n      <input type=\"text\" name=\"info[3][name]\" id=\"info[3][name]\"  value=\"\" placeholder=\"FULL NAME\" />\n      <br/></fieldset><fieldset style=\"background-color:lightblue;\"><legend>Attendee 4</legend>\n      <input type=\"text\" name=\"info[4][web_id]\" id=\"info[4][web_id]\" value=\"\" placeholder=\"Web File Number\" />\n      <input type=\"text\" name=\"info[4][name]\" id=\"info[4][name]\"  value=\"\" placeholder=\"FULL NAME\" />\n      <br/></fieldset><select name=\"pm\" id=\"pm\" ><option value=\"city\" selected>CITYTOUCH</option><option value=\"upay\" >Upay</option><option value=\"dbblmobilebanking\" >Rocket</option><option value=\"mycash\" >Mercantile Bank MyCash</option><option value=\"mobilemoney\" >Tap - Trust And Pay</option><option value=\"okwallet\" >One Bank Wallet</option></select>\n        <input type=\"text\" name=\"pmNumber\" id=\"pmNumber\" value=\"\" placeholder=\"Payment Phone Number\" required/>\n        <br/>\n        <input style=\"color:green;background-color:lightgreen\" type=\"submit\" onclick=\"return clearError()\" value=\"Save File\"/>\n      </form>\n    </body>\n    </html>\n  "
           },
           "redirectURL": "",
           "headersSize": -1,
